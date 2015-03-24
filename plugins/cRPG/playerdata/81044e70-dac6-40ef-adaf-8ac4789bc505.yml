@@ -1,0 +1,25 @@
+Mage:
+  level: 30
+  weapon:
+    tier: 2
+Knight:
+  level: 1
+  weapon:
+    tier: 1
+Hunter:
+  level: 1
+  weapon:
+    tier: 1
+Guardian:
+  level: 1
+  weapon:
+    tier: 1
+Rogue:
+  level: 1
+  weapon:
+    tier: 1
+Bard:
+  level: 1
+  weapon:
+    tier: 1
+SelectedClass: Mage

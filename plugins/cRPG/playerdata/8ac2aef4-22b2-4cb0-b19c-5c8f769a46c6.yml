@@ -1,0 +1,25 @@
+Hunter:
+  level: 1
+  weapon:
+    tier: 1
+Mage:
+  level: 1
+  weapon:
+    tier: 1
+Knight:
+  level: 1
+  weapon:
+    tier: 1
+Guardian:
+  level: 1
+  weapon:
+    tier: 1
+Rogue:
+  level: 1
+  weapon:
+    tier: 1
+Bard:
+  level: 1
+  weapon:
+    tier: 1
+SelectedClass: Guardian
